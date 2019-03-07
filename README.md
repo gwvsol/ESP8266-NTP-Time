@@ -8,7 +8,7 @@
 
 В данную библиотеку добавлен обработчик ошибок. При отсутствии соединения или превышения времени ожидания код не завешается ошибкой, а localtime микроконтроллера остается без изменний.
 
-Библиотека используется так же как и стандартная [ntptime.py](https://github.com/micropython/micropython/blob/master/ports/esp8266/modules/ntptime.py
+Библиотека используется так же как и стандартная [ntptime.py](https://github.com/micropython/micropython/blob/master/ports/esp8266/modules/ntptime.py)
 
 ***Пример использования:***
 ```python
